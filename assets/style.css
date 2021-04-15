@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background-color: #ffead4;
+  overflow-x: hidden;
+}
+
+.container-header {
+  width: 100vw;
+}
